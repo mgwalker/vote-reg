@@ -1,0 +1,15 @@
+{
+  "name": "vote-reg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    ""
+  ],
+  "author": "Greg Walker <vote-reg@darkcooger.net>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mgwalker/vote-reg"
+  }
+}
