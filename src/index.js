@@ -5,6 +5,8 @@ import store from './store';
 
 
 ReactDOM.render(
-  <Provider store={store} />,
+  <Provider store={store}>
+    <h1>Hello</h1>
+  </Provider>,
   document.getElementById('content')
 );
